@@ -273,6 +273,7 @@ hr {
 }
 
 /* Dark Grey */
+#sessions,
 #transport,
 #tickets,
 #sponsors,
@@ -281,6 +282,8 @@ hr {
   color: white;
 }
 
+#sessions h1,
+#sessions h2,
 #transport h1,
 #sponsors h1,
 #tickets h1,
@@ -289,6 +292,7 @@ hr {
   color: white;
 }
 
+#sessionsa a,
 #contact a,
 #f a,
 #information a,
@@ -303,6 +307,8 @@ hr {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
+#sessions a:hover,
+#sessions a:focus,
 #contact a:hover,
 #contact a:focus,
 #f a:hover,
@@ -316,6 +322,8 @@ hr {
     outline: 0;
 }
 
+#sessions a:before,
+#sessions a:after,
 #contact a:before,
 #contact a:after,
 #f a:before,
