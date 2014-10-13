@@ -377,3 +377,20 @@ hr {
 .map {
   margin-bottom: 30px;
 }
+
+.times {
+  display: block;
+  font-weight: bold;
+}
+
+.talkTitle  {
+  font-style: italic;
+}
+
+.session {
+  min-height: 100px;
+}
+
+#speakers h2 {
+  font-size: 90%;
+}
