@@ -243,6 +243,7 @@ hr {
 
 
 /* Faces */
+#sessions img,
 #speakers img,
 #organisers img {
     border-radius: 20%;
@@ -255,11 +256,13 @@ hr {
     margin-bottom: 60px;
 }
 
+#sessions h4,
 #speakers h4,
 #organisers h4 {
     margin-bottom: 30px;
 }
 
+#sessions,
 #workshop,
 #venue,
 #hotels,
@@ -284,6 +287,7 @@ hr {
 
 #sessions h1,
 #sessions h2,
+#sessions h4,
 #transport h1,
 #sponsors h1,
 #tickets h1,
