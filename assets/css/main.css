@@ -279,7 +279,6 @@ hr {
 #sessions,
 #transport,
 #tickets,
-#sponsors,
 #organisers {
   background-color: #4e4e4e;
   color: white;
@@ -289,7 +288,6 @@ hr {
 #sessions h2,
 #sessions h4,
 #transport h1,
-#sponsors h1,
 #tickets h1,
 #organisers h1,
 #organisers h4 {
@@ -401,6 +399,19 @@ hr {
 
 .session {
   min-height: 100px;
+}
+
+.big-sponsor {
+  max-height: 150px;
+  max-width: 300px;
+}
+
+.small-sponsor {
+  height: 100px;  
+}
+
+#sponsors p {
+  text-align: center;
 }
 
 #speakers h2 {
